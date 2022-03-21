@@ -1,0 +1,23 @@
+button {
+    background-color: #f0a58e;
+    padding: 7px;
+    border: 1px solid #974b0c;
+    text-align: center;
+}
+
+p {
+    background-color: #d5e9f1;
+    position: relative;
+    width: 1000px;
+    margin-left: 200px;
+    padding: 3px;
+    border: 1px solid #7994aa;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    height: 100px;
+    width: 180px;
+    margin-left: 600px;
+}
